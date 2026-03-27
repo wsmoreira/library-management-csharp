@@ -72,11 +72,11 @@ dotnet run
 --- Cadastrando Livros ---
 Livro 'Clean Code' adicionado à biblioteca
 
---- Exercício 2: Empréstimos com Prazo de Devolução ---
+--- Empréstimos com Prazo de Devolução ---
 Livro 'Clean Code' emprestado com sucesso!
 Prazo de devolução: 10/04/2025
 
---- Exercício 4: Resumo dos Empréstimos ---
+--- Resumo dos Empréstimos ---
 Livro:            Clean Code
 Status:           Em aberto (13 dia(s) restante(s))
 
